@@ -1,0 +1,20 @@
+git status 
+git add data.json 
+git commit 
+git log 
+git diff
+git commit --help
+git commit -a -m "add 2 file"
+git log -p
+git log -n2
+git log --greep Fist
+git log --greep Fir
+clear
+git log
+git checkout a4c45
+git checkout master
+git add .
+git commit -a -m "03"
+git diff --stanged
+git diff --staged
+git diff --cached
