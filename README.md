@@ -87,6 +87,7 @@ Contains
 9. Exception handling.
 10. Inheritance.
 
+***Tournaments***
 1. Tournament 1 (30 tasks)
 2. Tournament 2 (30 tasks)
 3. Tournament 3 (30 tasks)
@@ -102,6 +103,7 @@ Contains
 9. Multidimensional arrays in C++.
 10. Pointers in c++. Dynamic memory.
 
+***Tournaments***
 1. Tournament 1 (11 tasks)
 2. Tournament 2 (15 tasks)
 3. Tournament 3 (15 tasks)
