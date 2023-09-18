@@ -68,3 +68,6 @@ Contains 6 practical works
 4. Multiple inheritance. Class diagrams.
 5. Templates of classes and functions. Handling of exceptional situations.
 6. Features of working with dynamic arrays using the tools of the standard stl template library
+
+**Programming (C language)**
+
