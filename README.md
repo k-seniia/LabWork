@@ -62,6 +62,9 @@ Contains 13 laboratory works
 **Object-oriented programming 2023**
 
 Contains 6 practical works
-1. 
+1. Basics of designing and implementing simple classes.
 2. Constructors and destructors. Overload of operations.
 3. Inheritance. Polymorphism. Virtual functions.
+4. Multiple inheritance. Class diagrams.
+5. Templates of classes and functions. Handling of exceptional situations.
+6. Features of working with dynamic arrays using the tools of the standard stl template library
