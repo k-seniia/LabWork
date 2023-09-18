@@ -51,7 +51,7 @@ Contains 5 laboratory and 7 practical works
 **Object-oriented programming 2022**
 
 Contains 13 laboratory works
-1. Base
+1. Base.
 2. Overload.
 3. Inheritance, multiple inheritance, virtual functions and classes.
 7. File in C++.
@@ -73,6 +73,9 @@ Contains 6 practical works
 
 **Programming and algorithmic languages (C++)**
 
+Contains
+
+***Labs***
 1. Use of files in the calculation.
 2. Use of dynamic data and its storage.
 3. Use of dynamic data and storage in binary format.
@@ -84,4 +87,22 @@ Contains 6 practical works
 9. Exception handling.
 10. Inheritance.
 
+1. Tournament 1 (30 tasks)
+2. Tournament 2 (30 tasks)
+3. Tournament 3 (30 tasks)
+
 **Programming basics (C++)**
+
+***Labs***
+4. Formatted input and output in C++.
+5. Expressions in C++.
+6. Conditional statements in C++.
+7. Loop instructions in C++.
+8. One-dimensional arrays in C++.
+9. Multidimensional arrays in C++.
+10. Pointers in c++. Dynamic memory.
+
+1. Tournament 1 (11 tasks)
+2. Tournament 2 (15 tasks)
+3. Tournament 3 (15 tasks)
+4. Tournament 4 (30 tasks)
