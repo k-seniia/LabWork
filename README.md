@@ -72,3 +72,16 @@ Contains 6 practical works
 **Programming (C language)**
 
 **Programming and algorithmic languages (C++)**
+
+1. Use of files in the calculation.
+2. Use of dynamic data and its storage.
+3. Use of dynamic data and storage in binary format.
+4. Use of strings in application development.
+5. String.
+6. Structures.
+7. Classes.
+8. Overload of functions, operations and operators.
+9. Exception handling.
+10. Inheritance.
+
+**Programming basics (C++)**
