@@ -71,3 +71,4 @@ Contains 6 practical works
 
 **Programming (C language)**
 
+**Programming and algorithmic languages (C++)**
